@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yash
 #### Game Developer / Web Developer
-![Game Developer / Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Game Developer / Web Developer](https://github.com/yashpatel172/yashpatel172/blob/main/CoverPage.png)
 
 I'm Yash and like to learn new things every day. Seeking an Internship or Entry-Level position in a technical job. 
 
